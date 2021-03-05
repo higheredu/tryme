@@ -2,3 +2,5 @@ just anothe text
 
 I actually make changes now
 
+this is not an error.
+
